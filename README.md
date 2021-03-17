@@ -1,2 +1,4 @@
-# pandas_data_extract
-Basic extraction of the database using python and pandas and generating an excel file.
+# Database extract using Python/Pandas *Oracle
+Need: cx_Oracle, Pandas
+
+
